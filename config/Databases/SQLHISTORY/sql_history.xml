@@ -1,0 +1,497 @@
+<history>
+    <sql date='1333137836571' url='jdbc:h2:file:C:\Users\user\Documents\Aurora\Aurora\AuroraDB'>
+        SELECT FILE_NAME FROM AuroraTable WHERE GAME_NAME LIKE &apos;%Counter-Strike%&apos;
+    </sql>
+    <sql date='1333137832870' url='jdbc:h2:file:C:\Users\user\Documents\Aurora\Aurora\AuroraDB'>
+        SELECT FILE_NAME FROM AuroraTable WHERE GAME_NAME LIKE &apos;%Counter-Strike-%&apos;
+    </sql>
+    <sql date='1333137827141' url='jdbc:h2:file:C:\Users\user\Documents\Aurora\Aurora\AuroraDB'>
+        SELECT FILE_NAME FROM AuroraTable WHERE GAME_NAME LIKE &apos;%Counter-Strike  %&apos;
+    </sql>
+    <sql date='1333137823315' url='jdbc:h2:file:C:\Users\user\Documents\Aurora\Aurora\AuroraDB'>
+        SELECT FILE_NAME FROM AuroraTable WHERE GAME_NAME LIKE &apos;%Counter-Strike %&apos;
+    </sql>
+    <sql date='1333137704111' url='jdbc:h2:file:C:\Users\user\Documents\Aurora\Aurora\AuroraDB'>
+        SELECT FILE_NAME FROM AuroraTable WHERE GAME_NAME LIKE &apos;%Counter-Strike %&apos;
+    </sql>
+    <sql date='1333137697928' url='jdbc:h2:file:C:\Users\user\Documents\Aurora\Aurora\AuroraDB'>
+        SELECT FILE_NAME FROM AuroraTable WHERE GAME_NAME LIKE &apos;%Counter-Strike-%&apos;
+    </sql>
+    <sql date='1333137608185' url='jdbc:h2:file:C:\Users\user\Documents\Aurora\Aurora\AuroraDB'>
+        SELECT FILE_NAME FROM AuroraTable WHERE GAME_NAME LIKE &apos;%Counter-Strike %&apos;
+    </sql>
+    <sql date='1333137607941' url='jdbc:h2:file:C:\Users\user\Documents\Aurora\Aurora\AuroraDB'>
+        SELECT FILE_NAME FROM AuroraTable WHERE GAME_NAME LIKE &apos;%Counter-Strike %&apos;
+    </sql>
+    <sql date='1333137607599' url='jdbc:h2:file:C:\Users\user\Documents\Aurora\Aurora\AuroraDB'>
+        SELECT FILE_NAME FROM AuroraTable WHERE GAME_NAME LIKE &apos;%Counter-Strike %&apos;
+    </sql>
+    <sql date='1333137606575' url='jdbc:h2:file:C:\Users\user\Documents\Aurora\Aurora\AuroraDB'>
+        SELECT FILE_NAME FROM AuroraTable WHERE GAME_NAME LIKE &apos;%Counter-Strike %&apos;
+    </sql>
+    <sql date='1333137605374' url='jdbc:h2:file:C:\Users\user\Documents\Aurora\Aurora\AuroraDB'>
+        SELECT FILE_NAME FROM AuroraTable WHERE GAME_NAME LIKE &apos;%Counter-Strike %&apos;
+    </sql>
+    <sql date='1333137600296' url='jdbc:h2:file:C:\Users\user\Documents\Aurora\Aurora\AuroraDB'>
+        SELECT FILE_NAME FROM AuroraTable WHERE GAME_NAME LIKE &apos;%Counter-Strike%&apos;
+    </sql>
+    <sql date='1333137598836' url='jdbc:h2:file:C:\Users\user\Documents\Aurora\Aurora\AuroraDB'>
+        SELECT FILE_NAME FROM AuroraTable WHERE GAME_NAME LIKE &apos;%Counter-Strike-%&apos;
+    </sql>
+    <sql date='1333137597357' url='jdbc:h2:file:C:\Users\user\Documents\Aurora\Aurora\AuroraDB'>
+        SELECT FILE_NAME FROM AuroraTable WHERE GAME_NAME LIKE &apos;%Counter-Strike-S%&apos;
+    </sql>
+    <sql date='1333137595332' url='jdbc:h2:file:C:\Users\user\Documents\Aurora\Aurora\AuroraDB'>
+        SELECT FILE_NAME FROM AuroraTable WHERE GAME_NAME LIKE &apos;%Counter-Strike-Sour%&apos;
+    </sql>
+    <sql date='1333137593509' url='jdbc:h2:file:C:\Users\user\Documents\Aurora\Aurora\AuroraDB'>
+        SELECT FILE_NAME FROM AuroraTable WHERE GAME_NAME LIKE &apos;%Counter-Strike-Sourc%&apos;
+    </sql>
+    <sql date='1333137592521' url='jdbc:h2:file:C:\Users\user\Documents\Aurora\Aurora\AuroraDB'>
+        SELECT FILE_NAME FROM AuroraTable WHERE GAME_NAME LIKE &apos;%Counter-Strike-Sourc%&apos;
+    </sql>
+    <sql date='1333137588695' url='jdbc:h2:file:C:\Users\user\Documents\Aurora\Aurora\AuroraDB'>
+        SELECT FILE_NAME FROM AuroraTable WHERE GAME_NAME LIKE &apos;%Counter-Strike-Source%&apos;
+    </sql>
+    <sql date='1333137584434' url='jdbc:h2:file:C:\Users\user\Documents\Aurora\Aurora\AuroraDB'>
+        SELECT FILE_NAME FROM AuroraTable WHERE GAME_NAME LIKE &apos;%Counter-Strike%&apos;
+    </sql>
+    <sql date='1333137573436' url='jdbc:h2:file:C:\Users\user\Documents\Aurora\Aurora\AuroraDB'>
+        SELECT FILE_NAME FROM AuroraTable WHERE GAME_NAME LIKE &apos;%Counter%&apos;
+    </sql>
+    <sql date='1333137570576' url='jdbc:h2:file:C:\Users\user\Documents\Aurora\Aurora\AuroraDB'>
+        SELECT FILE_NAME FROM AuroraTable WHERE GAME_NAME LIKE &apos;%Counter Str%&apos;
+    </sql>
+    <sql date='1333137565614' url='jdbc:h2:file:C:\Users\user\Documents\Aurora\Aurora\AuroraDB'>
+        SELECT FILE_NAME FROM AuroraTable WHERE GAME_NAME=&apos;Counter&apos;
+    </sql>
+    <sql date='1333137562177' url='jdbc:h2:file:C:\Users\user\Documents\Aurora\Aurora\AuroraDB'>
+        SELECT FILE_NAME FROM AuroraTable WHERE GAME_NAME=&apos;Counter-Strik&apos;
+    </sql>
+    <sql date='1333137556373' url='jdbc:h2:file:C:\Users\user\Documents\Aurora\Aurora\AuroraDB'>
+        SELECT FILE_NAME FROM AuroraTable WHERE GAME_NAME=&apos;Counter-Strike-Source&apos;
+    </sql>
+    <sql date='1333137208921' url='jdbc:h2:file:C:\Users\user\Documents\Aurora\Aurora\AuroraDB'>
+        SELECT FILE_NAME FROM AuroraTable WHERE GAME_NAME LIKE &apos;%Half Life%&apos;
+    </sql>
+    <sql date='1333137207888' url='jdbc:h2:file:C:\Users\user\Documents\Aurora\Aurora\AuroraDB'>
+        SELECT FILE_NAME FROM AuroraTable WHERE GAME_NAME LIKE &apos;%Half Life%&apos;
+    </sql>
+    <sql date='1333137193970' url='jdbc:h2:file:C:\Users\user\Documents\Aurora\Aurora\AuroraDB'>
+        SELECT FILE_NAME FROM AuroraTable WHERE GAME_NAME LIKE &apos;%-%&apos;
+    </sql>
+    <sql date='1333137178611' url='jdbc:h2:file:C:\Users\user\Documents\Aurora\Aurora\AuroraDB'>
+        SELECT FILE_NAME FROM AuroraTable WHERE GAME_NAME LIKE &apos;%Counter%&apos;
+    </sql>
+    <sql date='1333137164630' url='jdbc:h2:file:C:\Users\user\Documents\Aurora\Aurora\AuroraDB'>
+        SELECT FILE_NAME FROM AuroraTable WHERE GAME_NAME LIKE &apos;%Counter-%&apos;
+    </sql>
+    <sql date='1333137155145' url='jdbc:h2:file:C:\Users\user\Documents\Aurora\Aurora\AuroraDB'>
+        SELECT FILE_NAME FROM AuroraTable WHERE GAME_NAME LIKE &apos;%Counter S%&apos;
+    </sql>
+    <sql date='1333137147077' url='jdbc:h2:file:C:\Users\user\Documents\Aurora\Aurora\AuroraDB'>
+        SELECT FILE_NAME FROM AuroraTable WHERE GAME_NAME LIKE &apos;%Counter%&apos;
+    </sql>
+    <sql date='1333137142777' url='jdbc:h2:file:C:\Users\user\Documents\Aurora\Aurora\AuroraDB'>
+        SELECT FILE_NAME FROM AuroraTable WHERE GAME_NAME LIKE &apos;%Counter Strike%&apos;
+    </sql>
+    <sql date='1333137080557' url='jdbc:h2:file:C:\Users\user\Documents\Aurora\Aurora\AuroraDB'>
+        SELECT FILE_NAME FROM AuroraTable WHERE GAME_NAME LIKE &apos;%Counter Strike%&apos;
+    </sql>
+    <sql date='1333137080162' url='jdbc:h2:file:C:\Users\user\Documents\Aurora\Aurora\AuroraDB'>
+        SELECT FILE_NAME FROM AuroraTable WHERE GAME_NAME LIKE &apos;%Counter Strike%&apos;
+    </sql>
+    <sql date='1333137079819' url='jdbc:h2:file:C:\Users\user\Documents\Aurora\Aurora\AuroraDB'>
+        SELECT FILE_NAME FROM AuroraTable WHERE GAME_NAME LIKE &apos;%Counter Strike%&apos;
+    </sql>
+    <sql date='1333137079136' url='jdbc:h2:file:C:\Users\user\Documents\Aurora\Aurora\AuroraDB'>
+        SELECT FILE_NAME FROM AuroraTable WHERE GAME_NAME LIKE &apos;%Counter Strike%&apos;
+    </sql>
+    <sql date='1333137059187' url='jdbc:h2:file:C:\Users\user\Documents\Aurora\Aurora\AuroraDB'>
+        SELECT FILE_NAME FROM AuroraTable WHERE GAME_NAME=&apos;Counter Strike&apos;
+    </sql>
+    <sql date='1333137052916' url='jdbc:h2:file:C:\Users\user\Documents\Aurora\Aurora\AuroraDB'>
+        SELECT FILE_NAME FROM AuroraTable WHERE GAME_NAME=&apos;Counter Strike Source&apos;
+    </sql>
+    <sql date='1333137045372' url='jdbc:h2:file:C:\Users\user\Documents\Aurora\Aurora\AuroraDB'>
+        select * from &quot;PUBLIC&quot;.AURORATABLE
+    </sql>
+    <sql date='1333064749150' url='jdbc:h2:file:C:\Users\user/Documents/AuroraData/Game Data/Games;IFEXISTS=TRUE'>
+        select * from &quot;PUBLIC&quot;.LIBRARY
+    </sql>
+    <sql date='1333064458674' url='jdbc:h2:file:C:\Users\user/Documents/AuroraData/Game Data/Games;IFEXISTS=TRUE'>
+        select * from &quot;PUBLIC&quot;.LIBRARY
+    </sql>
+    <sql date='1333064432261' url='jdbc:h2:file:C:\Users\user/Documents/AuroraData/Game Data/Games;IFEXISTS=TRUE'>
+        select * from &quot;PUBLIC&quot;.LIBRARY
+    </sql>
+    <sql date='1333064130193' url='jdbc:h2:file:C:\Users\user/Documents/AuroraData/Game Data/Games;IFEXISTS=TRUE'>
+        select * from &quot;PUBLIC&quot;.LIBRARY
+    </sql>
+    <sql date='1333057539853' url='jdbc:h2:file:C:\Users\user/Documents/AuroraData/Game Data/Games;IFEXISTS=TRUE'>
+        select * from &quot;PUBLIC&quot;.LIBRARY
+    </sql>
+    <sql date='1333057250802' url='jdbc:h2:file:C:\Users\user/Documents/AuroraData/Game Data/Games;IFEXISTS=TRUE'>
+        select * from &quot;PUBLIC&quot;.LIBRARY
+    </sql>
+    <sql date='1333057144254' url='jdbc:h2:file:C:\Users\user/Documents/AuroraData/Game Data/Games;IFEXISTS=TRUE'>
+        select * from &quot;PUBLIC&quot;.LIBRARY
+    </sql>
+    <sql date='1333043497655' url='jdbc:h2:~/userdb'>
+        select name from Table
+    </sql>
+    <sql date='1333041515984' url='jdbc:h2:~/userdb'>
+        select Name from Table
+    </sql>
+    <sql date='1333041514363' url='jdbc:h2:~/userdb'>
+        select Name from Table
+    </sql>
+    <sql date='1333041346025' url='jdbc:h2:~/userdb'>
+        select name from &quot;PUBLIC&quot;.&quot;TABLE&quot;
+    </sql>
+    <sql date='1333041338387' url='jdbc:h2:~/userdb'>
+        select Name from &quot;PUBLIC&quot;.&quot;TABLE&quot;
+    </sql>
+    <sql date='1333039648785' url='jdbc:h2:~/userdb'>
+        select NAME from &quot;PUBLIC&quot;.&quot;TABLE&quot;
+    </sql>
+    <sql date='1333039635343' url='jdbc:h2:~/userdb'>
+        select * from &quot;PUBLIC&quot;.&quot;TABLE&quot;
+    </sql>
+    <sql date='1333037536465' url='jdbc:h2:~/userdb'>
+        select * from &quot;PUBLIC&quot;.&quot;TABLE&quot;
+    </sql>
+    <sql date='1333035999837' url='jdbc:h2:~/userdb'>
+        select Name from &quot;PUBLIC&quot;.&quot;TABLE&quot;
+    </sql>
+    <sql date='1333035998792' url='jdbc:h2:~/userdb'>
+        select Name from &quot;PUBLIC&quot;.&quot;TABLE&quot;
+    </sql>
+    <sql date='1333035998005' url='jdbc:h2:~/userdb'>
+        select Name from &quot;PUBLIC&quot;.&quot;TABLE&quot;
+    </sql>
+    <sql date='1333035894575' url='jdbc:h2:~/userdb'>
+        select * from &quot;PUBLIC&quot;.&quot;TABLE&quot;
+    </sql>
+    <sql date='1333035894306' url='jdbc:h2:~/userdb'>
+        select * from &quot;PUBLIC&quot;.&quot;TABLE&quot;
+    </sql>
+    <sql date='1333035894002' url='jdbc:h2:~/userdb'>
+        select * from &quot;PUBLIC&quot;.&quot;TABLE&quot;
+    </sql>
+    <sql date='1333035893490' url='jdbc:h2:~/userdb'>
+        select * from &quot;PUBLIC&quot;.&quot;TABLE&quot;
+    </sql>
+    <sql date='1333035892868' url='jdbc:h2:~/userdb'>
+        select * from &quot;PUBLIC&quot;.&quot;TABLE&quot;
+    </sql>
+    <sql date='1333035892186' url='jdbc:h2:~/userdb'>
+        select * from &quot;PUBLIC&quot;.&quot;TABLE&quot;
+    </sql>
+    <sql date='1333035881688' url='jdbc:h2:~/userdb'>
+        select * from &quot;PUBLIC&quot;.&quot;TABLE&quot;
+    </sql>
+    <sql date='1333035854912' url='jdbc:h2:~/userdb'>
+        select Name from &quot;PUBLIC&quot;.&quot;TABLE&quot; where Name=*
+    </sql>
+    <sql date='1333035844618' url='jdbc:h2:~/userdb'>
+        select Name from &quot;PUBLIC&quot;.&quot;TABLE&quot; where Name=*
+    </sql>
+    <sql date='1333035820948' url='jdbc:h2:~/userdb'>
+        select Name from &quot;PUBLIC&quot;.&quot;TABLE&quot; where Name=?
+    </sql>
+    <sql date='1333035808180' url='jdbc:h2:~/userdb'>
+        select Name from &quot;PUBLIC&quot;.&quot;TABLE&quot; where Name=ALL
+    </sql>
+    <sql date='1333035803588' url='jdbc:h2:~/userdb'>
+        select Name from &quot;PUBLIC&quot;.&quot;TABLE&quot; where Name=ALL
+    </sql>
+    <sql date='1333035788615' url='jdbc:h2:~/userdb'>
+        select Name from &quot;PUBLIC&quot;.&quot;TABLE&quot; where Name=*
+    </sql>
+    <sql date='1333035786620' url='jdbc:h2:~/userdb'>
+        select Name from &quot;PUBLIC&quot;.&quot;TABLE&quot; where Name=*
+    </sql>
+    <sql date='1333035754818' url='jdbc:h2:~/userdb'>
+        select * from &quot;PUBLIC&quot;.&quot;TABLE&quot;
+    </sql>
+    <sql date='1332483597699' url='jdbc:h2:~/AuroraDB'>
+        SELECT * FROM AuroraTable WHERE GAME_NAME LIKE &apos;World of Warcraft - T%&apos;
+    </sql>
+    <sql date='1332483582385' url='jdbc:h2:~/AuroraDB'>
+        SELECT * FROM AuroraTable WHERE GAME_NAME LIKE &apos;World of Warcraft %&apos;
+    </sql>
+    <sql date='1332483571950' url='jdbc:h2:~/AuroraDB'>
+        SELECT FILE_NAME FROM AuroraTable WHERE GAME_NAME LIKE &apos;World of Warcraft %&apos;
+    </sql>
+    <sql date='1332483554485' url='jdbc:h2:~/AuroraDB'>
+        SELECT GAME_NAME FROM AuroraTable WHERE GAME_NAME LIKE &apos;World of Warcraft  T%&apos;
+    </sql>
+    <sql date='1332483537019' url='jdbc:h2:~/AuroraDB'>
+        SELECT FILE_NAME FROM AuroraTable WHERE GAME_NAME LIKE &apos;World of Warcraft  T%&apos;
+    </sql>
+    <sql date='1332483519492' url='jdbc:h2:~/AuroraDB'>
+        SELECT FILE_NAME FROM AuroraTable WHERE GAME_NAME LIKE &apos;call%&apos;
+    </sql>
+    <sql date='1332483514603' url='jdbc:h2:~/AuroraDB'>
+        SELECT FILE_NAME FROM AuroraTable WHERE GAME_NAME LIKE &apos;call&apos;
+    </sql>
+    <sql date='1332483513172' url='jdbc:h2:~/AuroraDB'>
+        SELECT FILE_NAME FROM AuroraTable WHERE GAME_NAME LIKE &apos;call&apos;
+    </sql>
+    <sql date='1332483468745' url='jdbc:h2:~/AuroraDB'>
+        SELECT FILE_NAME FROM AuroraTable WHERE GAME_NAME LIKE &apos;World of Warcraft T&apos;
+    </sql>
+    <sql date='1332483220045' url='jdbc:h2:~/AuroraDB'>
+        SELECT FILE_NAME FROM AuroraTable WHERE GAME_NAME LIKE &apos;%World of Warcraft %&apos;
+    </sql>
+    <sql date='1332483218339' url='jdbc:h2:~/AuroraDB'>
+        SELECT FILE_NAME FROM AuroraTable WHERE GAME_NAME LIKE &apos;%World of Warcraft  %&apos;
+    </sql>
+    <sql date='1332483197584' url='jdbc:h2:~/AuroraDB'>
+        SELECT FILE_NAME FROM AuroraTable WHERE GAME_NAME LIKE &apos;%World of Warcraft %&apos;
+    </sql>
+    <sql date='1332483186145' url='jdbc:h2:~/AuroraDB'>
+        SELECT FILE_NAME FROM AuroraTable WHERE GAME_NAME LIKE &apos;%World of Warcraft The%&apos;
+    </sql>
+    <sql date='1332483178483' url='jdbc:h2:~/AuroraDB'>
+        SELECT FILE_NAME FROM AuroraTable WHERE GAME_NAME LIKE &apos;%World of Warcraft%&apos;
+    </sql>
+    <sql date='1332483173502' url='jdbc:h2:~/AuroraDB'>
+        SELECT FILE_NAME FROM AuroraTable WHERE GAME_NAME LIKE &apos;%World of Warcraft the%&apos;
+    </sql>
+    <sql date='1332483165524' url='jdbc:h2:~/AuroraDB'>
+        SELECT FILE_NAME FROM AuroraTable WHERE GAME_NAME LIKE &apos;%World of Warcraft%&apos;
+    </sql>
+    <sql date='1332483148518' url='jdbc:h2:~/AuroraDB'>
+        SELECT FILE_NAME FROM AuroraTable WHERE GAME_NAME=&apos;World of Warcraft&apos;
+    </sql>
+    <sql date='1332449572589' url='jdbc:h2:~/AuroraDB'>
+        SELECT FILE_NAME FROM AuroraTable WHERE GAME_NAME=&apos;Syndicate&apos;
+    </sql>
+    <sql date='1332444082049' url='jdbc:h2:~/AuroraDB'>
+        SELECT * FROM AuroraTable WHERE Game_Name=&apos;The Elder Scrolls V - Skyrim&apos;
+    </sql>
+    <sql date='1332443644798' url='jdbc:h2:~/AuroraDB'>
+        SELECT * FROM AuroraTable WHERE Game_Name=&apos;Assassin&apos;&apos;s Creed - Brotherhood&apos;
+    </sql>
+    <sql date='1332443635250' url='jdbc:h2:~/AuroraDB'>
+        SELECT * FROM AuroraTable WHERE Game_Name &apos;%Assassin&apos;&apos;s Creed - Brotherhood%&apos;
+    </sql>
+    <sql date='1332443630731' url='jdbc:h2:~/AuroraDB'>
+        SELECT * FROM AuroraTable WHERE Game_Nam &apos;%Assassin&apos;&apos;s Creed - Brotherhood%&apos;
+    </sql>
+    <sql date='1332443584338' url='jdbc:h2:~/AuroraDB'>
+        SELECT * FROM AuroraTable WHERE Game_Name LIKE &apos;% - %&apos;
+    </sql>
+    <sql date='1332443557397' url='jdbc:h2:~/AuroraDB'>
+        SELECT * FROM AuroraTable WHERE Game_Name LIKE &apos;%Assassin&apos;&apos;s Creed %&apos;
+    </sql>
+    <sql date='1332443542031' url='jdbc:h2:~/AuroraDB'>
+        SELECT * FROM AuroraTable WHERE Game_Name=&apos;Assassin&apos;&apos;s Creed Brotherhood&apos;
+    </sql>
+    <sql date='1332443535653' url='jdbc:h2:~/AuroraDB'>
+        SELECT * FROM AuroraTable WHERE Game_Name=&apos;Assassin&apos;&apos;s Creed&apos;
+    </sql>
+    <sql date='1332443505304' url='jdbc:h2:~/AuroraDB'>
+        SELECT * FROM AuroraTable WHERE Game_Name=&apos;Brink&apos;
+    </sql>
+    <sql date='1332443502978' url='jdbc:h2:~/AuroraDB'>
+        SELECT * FROM AuroraTable WHERE Game_Name=&apos;Brink&apos;
+    </sql>
+    <sql date='1332443502190' url='jdbc:h2:~/AuroraDB'>
+        SELECT * FROM AuroraTable WHERE Game_Name=&apos;Brink&apos;
+    </sql>
+    <sql date='1332443479252' url='jdbc:h2:~/AuroraDB'>
+        SELECT * FROM AuroraTable WHERE Game_Name=&apos;Brink&apos;
+    </sql>
+    <sql date='1332443468478' url='jdbc:h2:~/AuroraDB'>
+        SELECT * FROM AuroraTable WHERE Game_Name=&apos;Assassin&apos;&apos;s Creed Brotherhood&apos;
+    </sql>
+    <sql date='1332443455975' url='jdbc:h2:~/AuroraDB'>
+        SELECT * FROM AuroraTable WHERE Game_Name=&apos;minecraft&apos;
+    </sql>
+    <sql date='1332443445316' url='jdbc:h2:~/AuroraDB'>
+        SELECT * FROM AuroraTable WHERE Game_Name=&apos;mi&apos;
+    </sql>
+    <sql date='1332443444563' url='jdbc:h2:~/AuroraDB'>
+        SELECT * FROM AuroraTable WHERE Game_Name=&apos;mi&apos;
+    </sql>
+    <sql date='1332443440056' url='jdbc:h2:~/AuroraDB'>
+        SELECT * FROM AuroraTable WHERE Game_Name=&apos;A&apos;
+    </sql>
+    <sql date='1332443439388' url='jdbc:h2:~/AuroraDB'>
+        SELECT * FROM AuroraTable WHERE Game_Name=&apos;A&apos;
+    </sql>
+    <sql date='1332443438641' url='jdbc:h2:~/AuroraDB'>
+        SELECT * FROM AuroraTable WHERE Game_Name=&apos;A&apos;
+    </sql>
+    <sql date='1332443428873' url='jdbc:h2:~/AuroraDB'>
+        SELECT * FROM AuroraTable WHERE Game_Name=&apos;A&apos;
+    </sql>
+    <sql date='1332443428564' url='jdbc:h2:~/AuroraDB'>
+        SELECT * FROM AuroraTable WHERE Game_Name=&apos;A&apos;
+    </sql>
+    <sql date='1332443428292' url='jdbc:h2:~/AuroraDB'>
+        SELECT * FROM AuroraTable WHERE Game_Name=&apos;A&apos;
+    </sql>
+    <sql date='1332443427781' url='jdbc:h2:~/AuroraDB'>
+        SELECT * FROM AuroraTable WHERE Game_Name=&apos;A&apos;
+    </sql>
+    <sql date='1332443423507' url='jdbc:h2:~/AuroraDB'>
+        SELECT * FROM AuroraTable WHERE Game_Name=&apos;Assassi&apos;
+    </sql>
+    <sql date='1332443418150' url='jdbc:h2:~/AuroraDB'>
+        SELECT * FROM AuroraTable WHERE Game_Name=&apos;Assassi&apos;
+    </sql>
+    <sql date='1332443416963' url='jdbc:h2:~/AuroraDB'>
+        SELECT * FROM AuroraTable WHERE Game_Name=&apos;Assassi&apos;
+    </sql>
+    <sql date='1332443410882' url='jdbc:h2:~/AuroraDB'>
+        SELECT * FROM AuroraTable WHERE Game_Name=&apos;Assassin&apos;&apos;s Creed Brotherhood&apos;
+    </sql>
+    <sql date='1332443406037' url='jdbc:h2:~/AuroraDB'>
+        SELECT * FROM AuroraTable WHERE Game_Name=&apos;Assassin&apos;&apos;s Creed Brotherhood&apos;
+    </sql>
+    <sql date='1332442909332' url='jdbc:h2:~/AuroraDB'>
+        select * from &quot;PUBLIC&quot;.AURORATABLE WHERE GAME_NAME LIKE &apos;%minecraft%&apos;
+    </sql>
+    <sql date='1332442681387' url='jdbc:h2:~/AuroraDB'>
+        select * from &quot;PUBLIC&quot;.AURORATABLE
+    </sql>
+    <sql date='1332302317466' url='jdbc:h2:~/AuroraDB'>
+        select * from &quot;PUBLIC&quot;.AURORATABLE WHERE GAME_NAME LIKE &apos;%call of %&apos;
+    </sql>
+    <sql date='1332302314625' url='jdbc:h2:~/AuroraDB'>
+        select * from &quot;PUBLIC&quot;.AURORATABLE WHERE GAME_NAME LIKE &apos;%call of  %&apos;
+    </sql>
+    <sql date='1332302312111' url='jdbc:h2:~/AuroraDB'>
+        select * from &quot;PUBLIC&quot;.AURORATABLE WHERE GAME_NAME LIKE &apos;%call of %&apos;
+    </sql>
+    <sql date='1332302308692' url='jdbc:h2:~/AuroraDB'>
+        select * from &quot;PUBLIC&quot;.AURORATABLE WHERE GAME_NAME LIKE &apos;%call of  %&apos;
+    </sql>
+    <sql date='1332302307458' url='jdbc:h2:~/AuroraDB'>
+        select * from &quot;PUBLIC&quot;.AURORATABLE WHERE GAME_NAME LIKE &apos;%call of %&apos;
+    </sql>
+    <sql date='1332302298391' url='jdbc:h2:~/AuroraDB'>
+        select * from &quot;PUBLIC&quot;.AURORATABLE WHERE GAME_NAME LIKE &apos;%call of%&apos;
+    </sql>
+    <sql date='1332302265086' url='jdbc:h2:~/AuroraDB'>
+        select * from &quot;PUBLIC&quot;.AURORATABLE
+    </sql>
+    <sql date='1331840369932' url='jdbc:h2:~/AuroraDB'>
+        select * from AuroraTable WHERE Game_Name Like &apos;%co%&apos;
+    </sql>
+    <sql date='1331840358616' url='jdbc:h2:~/AuroraDB'>
+        select * from AuroraTable WHERE Game_Name Like &apos;%mass%&apos;
+    </sql>
+    <sql date='1331840277627' url='jdbc:h2:~/AuroraDB'>
+        select * from AuroraTable WHERE Game_Name Like &apos;%&apos;&apos;%&apos;
+    </sql>
+    <sql date='1331840232511' url='jdbc:h2:~/AuroraDB'>
+        select * from AuroraTable WHERE Game_Name Like &apos;%ass%&apos;
+    </sql>
+    <sql date='1331840184363' url='jdbc:h2:~/AuroraDB'>
+        select * from AuroraTable WHERE Game_Name Like &apos;%where%&apos;
+    </sql>
+    <sql date='1331840154100' url='jdbc:h2:~/AuroraDB'>
+        select * from AuroraTable WHERE Game_Name Like &apos;%Asterix%&apos;
+    </sql>
+    <sql date='1331840119805' url='jdbc:h2:~/AuroraDB'>
+        select * from AuroraTable WHERE Game_Name Like &apos;%Ast%&apos;
+    </sql>
+    <sql date='1331839778671' url='jdbc:h2:~/AuroraDB'>
+        select * from AuroraTable WHERE Game_Name Like &apos;%wh%&apos;
+    </sql>
+    <sql date='1331839774602' url='jdbc:h2:~/AuroraDB'>
+        select * from AuroraTable WHERE Game_Name Like &apos;%why%&apos;
+    </sql>
+    <sql date='1331839749627' url='jdbc:h2:~/AuroraDB'>
+        select * from &quot;PUBLIC&quot;.AURORATABLE
+    </sql>
+    <sql date='1331836823472' url='jdbc:h2:~/AuroraDB'>
+        select * from AuroraTable WHERE GAME_NAME LIKE &apos;%minecraft%&apos;
+    </sql>
+    <sql date='1331836790455' url='jdbc:h2:~/AuroraDB'>
+        select * from AuroraTable WHERE GAME_NAME LIKE &apos;%minecraft%&apos;
+    </sql>
+    <sql date='1331836789056' url='jdbc:h2:~/AuroraDB'>
+        select * from AuroraTable WHERE GAME_NAME LIKE &apos;%minecraft%&apos;
+    </sql>
+    <sql date='1331836755687' url='jdbc:h2:~/AuroraDB'>
+        select * from &quot;PUBLIC&quot;.AURORATABLE
+    </sql>
+    <sql date='1331836559978' url='jdbc:h2:~/AuroraDB'>
+        select * from AuroraTable WHERE GAME_NAME LIKE &apos;%minecraft%&apos;
+    </sql>
+    <sql date='1331836545753' url='jdbc:h2:~/AuroraDB'>
+        select FILE_NAME from AuroraTable WHERE GAME_NAME LIKE &apos;%minecraft%&apos;
+    </sql>
+    <sql date='1331836500290' url='jdbc:h2:~/AuroraDB'>
+        select * from &quot;PUBLIC&quot;.AURORATABLE
+    </sql>
+    <sql date='1331769580904' url='jdbc:h2:~/AuroraDB'>
+        select * from &quot;PUBLIC&quot;.AURORATABLE
+    </sql>
+    <sql date='1331752523603' url='jdbc:h2:~/AuroraDB'>
+        SELECT * FROM AuroraTable WHERE Game_Name=&apos;Assassin&apos;&apos;s Creed - Brotherhood&apos;
+    </sql>
+    <sql date='1331751581946' url='jdbc:h2:~/AuroraDB'>
+        select * from &quot;PUBLIC&quot;.AURORATABLE
+    </sql>
+    <sql date='1331750975218' url='jdbc:h2:~/AuroraDB'>
+        select * from &quot;PUBLIC&quot;.AURORATABLE
+    </sql>
+    <sql date='1331747957401' url='jdbc:h2:~/AuroraDB'>
+        select * from &quot;PUBLIC&quot;.AURORATABLE
+    </sql>
+    <sql date='1331711516290' url='jdbc:h2:~/AuroraDB'>
+        select * from &quot;PUBLIC&quot;.AURORATABLE
+    </sql>
+    <sql date='1331705168446' url='jdbc:h2:~/AuroraDB'>
+        SELECT FILE_NAME FROM AuroraTable WHERE GAME_NAME LIKE &apos;%a%&apos;
+    </sql>
+    <sql date='1331705167431' url='jdbc:h2:~/AuroraDB'>
+        SELECT FILE_NAME FROM AuroraTable WHERE GAME_NAME LIKE &apos;%a%&apos;
+    </sql>
+    <sql date='1331705108184' url='jdbc:h2:~/AuroraDB'>
+        SELECT GAME_NAME FROM AuroraTable WHERE FILE_NAME LIKE &apos;%a%&apos;
+    </sql>
+    <sql date='1331704951349' url='jdbc:h2:~/AuroraDB'>
+        SELECT GAME_NAME FROM AuroraTable WHERE FILE_NAME LIKE &apos;%a%&apos;
+    </sql>
+    <sql date='1331704941521' url='jdbc:h2:~/AuroraDB'>
+        SELECT * FROM AuroraTable WHERE FILE_NAME LIKE &apos;%a%&apos;
+    </sql>
+    <sql date='1331704925152' url='jdbc:h2:~/AuroraDB'>
+        SELECT * FROM GAME_NAME WHERE FILE_NAME LIKE &apos;%a%&apos;
+    </sql>
+    <sql date='1331704871428' url='jdbc:h2:~/AuroraDB'>
+        select * from &quot;PUBLIC&quot;.AURORATABLE
+    </sql>
+    <sql date='1331701873099' url='jdbc:h2:~/AuroraDB'>
+        SELECT FILE_NAME FROM AuroraTable WHERE GAME_NAME LIKE &apos;%Ba%&apos;
+    </sql>
+    <sql date='1331701856196' url='jdbc:h2:~/AuroraDB'>
+        SELECT GAME_NAME FROM AuroraTable WHERE FILE_NAME LIKE &apos;%Ba%&apos;
+    </sql>
+    <sql date='1331701658562' url='jdbc:h2:~/AuroraDB'>
+        SELECT * FROM AuroraTable WHERE FILE_NAME LIKE &apos;%Ba%&apos;
+    </sql>
+    <sql date='1331701641348' url='jdbc:h2:~/AuroraDB'>
+        SELECT * FROM AuroraDB WHERE FILE_NAME LIKE &apos;%Ba%&apos;
+    </sql>
+    <sql date='1331701594206' url='jdbc:h2:~/AuroraDB'>
+        select * from &quot;PUBLIC&quot;.AURORATABLE
+    </sql>
+    <sql date='1327354715581' url='jdbc:h2:~/test'>
+        select * from &quot;PUBLIC&quot;.TEST
+    </sql>
+    <sql date='1327353932581' url='jdbc:h2:~/test'>
+        select * from &quot;PUBLIC&quot;.TEST
+    </sql>
+    <sql date='1327353849622' url='jdbc:h2:~/test'>
+        select &quot;CATALOG_NAME&quot; from INFORMATION_SCHEMA.CATALOGS
+    </sql>
+</history>

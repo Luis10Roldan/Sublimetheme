@@ -1,0 +1,9 @@
+<?xml version='1.0'?>
+<!DOCTYPE connection PUBLIC '-//NetBeans//DTD Database Connection 1.1//EN' 'http://www.netbeans.org/dtds/connection-1_1.dtd'>
+<connection>
+  <driver-class value='org.h2.Driver'/>
+  <driver-name value='driver'/>
+  <database-url value='jdbc:h2:file:C:\Users\user\Documents\Aurora\Aurora\AuroraDB'/>
+  <schema value=''/>
+  <user value=''/>
+</connection>
